@@ -1,22 +1,22 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'videos.dart';
+part of 'musics.dart';
 
 // **************************************************************************
 // TypeAdapterGenerator
 // **************************************************************************
 
-class VideosAdapter extends TypeAdapter<Videos> {
+class MusicsAdapter extends TypeAdapter<Musics> {
   @override
-  final int typeId = 0;
+  final int typeId = 2;
 
   @override
-  Videos read(BinaryReader reader) {
+  Musics read(BinaryReader reader) {
     final numOfFields = reader.readByte();
     final fields = <int, dynamic>{
       for (int i = 0; i < numOfFields; i++) reader.readByte(): reader.read(),
     };
-    return Videos(
+    return Musics(
       id: fields[0] as String,
       isim: fields[1] as String,
       tur: fields[2] as String,
@@ -27,7 +27,7 @@ class VideosAdapter extends TypeAdapter<Videos> {
   }
 
   @override
-  void write(BinaryWriter writer, Videos obj) {
+  void write(BinaryWriter writer, Musics obj) {
     writer
       ..writeByte(6)
       ..writeByte(0)
@@ -50,7 +50,7 @@ class VideosAdapter extends TypeAdapter<Videos> {
   @override
   bool operator ==(Object other) =>
       identical(this, other) ||
-      other is VideosAdapter &&
+      other is MusicsAdapter &&
           runtimeType == other.runtimeType &&
           typeId == other.typeId;
 }

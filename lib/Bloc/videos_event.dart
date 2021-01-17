@@ -9,6 +9,12 @@ class FetchVideoEvent extends VideosEvent {
   @override
   List<Object> get props => throw UnimplementedError();
 }
+class FetchInstagramEvent extends VideosEvent {
+  String url;
+  FetchInstagramEvent({@required this.url,});
+  @override
+  List<Object> get props => throw UnimplementedError();
+}
 class RefreshVideoEvent extends VideosEvent {
   String searchQ;
   String pageToken;

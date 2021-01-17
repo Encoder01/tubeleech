@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tubeleech/Models/channel_info.dart';
+import 'package:tubeleech/Models/instagram.dart';
 import 'package:tubeleech/Repo/locator.dart';
 import 'package:tubeleech/utils/services.dart';
 
@@ -11,6 +12,11 @@ class VideoRepository{
         String searchQ,
       }) async {
     return await videoApiClient.getVideosList(searchQ);
+  }
+  Future<Instagram> getInstagramPost(
+      {String url,
+      }) async {
+    return await videoApiClient.getInstaReel(url);
   }
   Future<List<VideosInfo>> getmoreVideo(
       {@required

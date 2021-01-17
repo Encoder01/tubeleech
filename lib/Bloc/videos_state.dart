@@ -22,6 +22,14 @@ class VideosLoadedState extends VideosState {
   @override
   List<Object> get props => [videos];
 }
+class InstagramLoadedState extends VideosState {
+  Instagram instagram;
+
+  InstagramLoadedState({this.instagram});
+
+  @override
+  List<Object> get props => [instagram];
+}
 
 class VideosErrorState extends VideosState {
   @override

@@ -1,0 +1,44 @@
+{
+  "search": "Ara",
+  "searchbar": "Ara... veya video linki gir",
+  "size": "Boyut",
+  "searchsuggest": "En iyi pop şarkılar",
+
+
+  "downloads": "İndirilenler",
+  "musics": "Müzikler",
+  "videos": "Videolar",
+  "delete": "Bu dosya silinecek! Emin misiniz?",
+  "remove": "Müzik bulunamadı listeden silmek istiyor musunuz?",
+  "yes": "Evet",
+  "no": "Hayır",
+
+  "setngs": "Ayarlar",
+  "player": "Oynatıcı",
+  "player2": "Oynatıcı Türü",
+  "player3": "Aradığınız videoyu dinlemek istediğiniz türde seçin",
+
+  "suggest": "Öneriler",
+  "suggest2": "Arama çubuğuna yazarken önerileri göster",
+
+  "notif": "Bildirimleri otomatik olarak kaldır",
+  "notif2": "Görev tamamlandıktan sonra bildirimleri otomatik olarak kaldırın.",
+
+  "embed": "Gömülü oynatıcı kullan",
+  "embed2": "Uygulama içinde müzik çalar",
+
+  "file": "Dosya yolu seç",
+
+
+  "other": "Diğer",
+  "personelads": "Kişiselleştirilmiş reklamlar",
+  "personelads2": "ilgi alanınıza göre reklam görmek için aktif edin",
+
+  "list": "Listeniz Boş",
+  "isCon": "Lütfen internet bağlantınızı kontrol edin",
+  "lang": "Dili Değiştir",
+  "langtitle": "Dili Seçiniz",
+  "turk": "Türkçe",
+  "rus": "русский",
+  "eng": "English"
+}

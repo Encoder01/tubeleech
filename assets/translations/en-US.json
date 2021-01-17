@@ -1,0 +1,42 @@
+{
+  "search": "Search",
+  "searchbar": "Search... or enter video link",
+  "size": "Size",
+  "searchsuggest": "Best Pop Songs",
+
+  "downloads": "Downloads",
+  "musics": "Musics",
+  "videos": "Videos",
+  "delete": "This file will be deleted !, Are you sure?",
+  "remove": "Music not found, do you want to remove it from the list?",
+  "yes": "Yes",
+  "no": "No",
+
+  "setngs": "Settings",
+  "player": "Player",
+  "player2": "Player Type",
+  "player3": "Choose the video you are looking for in the type you want to listen to",
+
+  "suggest": "Suggest",
+  "suggest2": "Show suggestions as you type in the search bar",
+
+  "notif": "Automatically remove notifications",
+  "notif2": "Automatically remove notifications after the task is complete.",
+
+  "embed": "Use embedded player",
+  "embed2": "Plays music within the application",
+  "file": "Choose file path",
+
+
+  "other": "Other",
+  "personelads": "Personalized ads",
+  "personelads2": "Activate to see ads based on your interests",
+
+  "list": "Your list is empty",
+  "isCon": "Please check your internet connection",
+  "lang": "Change Language",
+  "langtitle": "Choose Language",
+  "turk": "Türkçe",
+  "rus": "русский",
+  "eng": "English"
+}

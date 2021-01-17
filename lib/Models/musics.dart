@@ -1,9 +1,9 @@
 import 'package:hive/hive.dart';
 
-part 'videos.g.dart';
+part 'musics.g.dart';
 
-@HiveType(typeId: 0)
-class Videos{
+@HiveType(typeId: 2)
+class Musics{
   @HiveField(0)
   String id;
   @HiveField(1)
@@ -19,6 +19,6 @@ class Videos{
 
 
 
-  Videos({this.id,this.isim,this.tur,this.yol,this.active,this.thumbnail });
+  Musics({this.id,this.isim,this.tur,this.yol,this.active,this.thumbnail });
 
 }

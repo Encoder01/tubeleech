@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217290449880",
+    "project_id": "tubeleech-4fde1",
+    "storage_bucket": "tubeleech-4fde1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217290449880:android:8965c64d6d72b0143008ad",
+        "android_client_info": {
+          "package_name": "com.huzeyfe.tubeleech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217290449880-910321cu81jenaafbpdbd6q76rh3k88b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwCtv-epijU2QzlnY4flS64IT3q41qao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217290449880-910321cu81jenaafbpdbd6q76rh3k88b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2182756097973140~4698220349"
+    }
+  ],
+  "configuration_version": "1"
+}
